@@ -6,10 +6,10 @@ if (process.env.JAWSB_URL){
 
 }else{
   connection=mysql.createConnection({
-    host:'localhost',
-    user:'root',
-    password:'hacktheplanet',
-    database:'bootburger'
+    host:'z12itfj4c1vgopf8.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+    user:'cy2xyb052ewt45d9',
+    password:'m3etiiqerjhn8nqx',
+    database:'i9rdg5csrn5ogsmd'
 
   });
 };
